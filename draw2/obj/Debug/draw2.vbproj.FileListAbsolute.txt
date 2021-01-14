@@ -9,3 +9,7 @@ C:\Users\isaac\Desktop\draw2\draw2\obj\Debug\draw2.vbproj.GenerateResource.Cache
 C:\Users\isaac\Desktop\draw2\draw2\obj\Debug\draw2.exe
 C:\Users\isaac\Desktop\draw2\draw2\obj\Debug\draw2.xml
 C:\Users\isaac\Desktop\draw2\draw2\obj\Debug\draw2.pdb
+C:\Users\isaac\Desktop\draw2\lasers\draw2\bin\Debug\draw2.exe.config
+C:\Users\isaac\Desktop\draw2\lasers\draw2\obj\Debug\draw2.exe
+C:\Users\isaac\Desktop\draw2\lasers\draw2\obj\Debug\draw2.xml
+C:\Users\isaac\Desktop\draw2\lasers\draw2\obj\Debug\draw2.pdb
